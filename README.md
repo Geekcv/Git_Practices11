@@ -6,3 +6,5 @@ Git_Practices polish
 <h2>day 4</h2>
 <h2>day 5</h2>
 <h2>day 6</h2>
+<h2>day 7</h2>
+
